@@ -11,6 +11,12 @@
     --suport-color:#ffff;
 }
 
+#searchbarspace{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+
 #cabecalho {
     display: flex;
     align-items: center;
